@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from '/react.svg'
 import viteLogo from '/vite.svg'
+import tailwingLogo from '/tailwing.svg'
 import './App.css'
 
 function App() {
@@ -14,6 +15,9 @@ function App() {
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src={tailwingLogo} className="logo tailwing" alt="tailwing logo" />
         </a>
         
       </div>
