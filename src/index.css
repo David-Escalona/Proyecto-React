@@ -8,7 +8,7 @@ body{
 }
   
 #home {
-    background: linear-gradient(to right, rgba(245,245,245,0.8), rgba(245,245,245,0.8)),url(./src/assets/fondo.svg);
+    background: linear-gradient(to right, rgba(245,245,245,0.8), rgba(245,245,245,0.8)),url(./src/assets/fondoBlanco.svg);
     background-position: center;
     height: 950px;
     margin: 10px 0;
