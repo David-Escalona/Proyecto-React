@@ -1,5 +1,5 @@
 // import React from "react"
-import avatar from "./avatar"
+import avatar from "./templates/avatar"
 
 function header(){
     return (
