@@ -1,13 +1,16 @@
 // import React from "react"
-import header from './componentes/header';
+import './App.css'
+import * as React from "react";
+
+import { header } from './componentes/header';
 
 function App() {
  
 
   return (
     <>
-      <header/>
-      <avatar/>
+      <header>{ header }</header>
+      <avatar></avatar>
     </>
   )
 }
