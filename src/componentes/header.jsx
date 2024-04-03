@@ -1,5 +1,4 @@
 // import React from "react"
-import React from "react";
 
 import avatar from "./templates/avatar";
 
@@ -7,7 +6,7 @@ export function header(){
     return (
         <div className="header-fijado">
             <div className="flex justify-around py-4">
-                <avatar /> { avatar }
+               {avatar}
                 <div className="flex justify-end w-3/4 mt-3 space-x-12">
                     <a href="#home" className="text-base text-gray-700 font-bold hover:text-purple-600 transition duration-500">HOME</a>
                     <a href="#about" className="text-base text-gray-700 font-bold hover:text-purple-600 transition duration-500">ABOUT</a>
