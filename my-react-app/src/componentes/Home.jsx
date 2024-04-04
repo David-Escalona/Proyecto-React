@@ -1,10 +1,11 @@
-import Redes from "./templates/Redes";
+import Redes from "./templates/Iconos";
 
 function Home(){
     return (
+        
         <div id="home" className="bg-hexagon mt-12 pt-12 relative flex flex-col items-center justify-center">
             <div className="absolute left-0 flex items-center">
-                <Redes />
+                <Redes/>
             </div>
             <div className="container text-center">
                 <h1 className="uppercase font-extrabold text-6xl">HEY I´AM DAVID ESCALONA GARCÍA</h1>
