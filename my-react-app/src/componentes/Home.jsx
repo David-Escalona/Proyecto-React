@@ -15,10 +15,10 @@ function Home(){
                     <p>A Result-Oriented Web Developer building and managing Websites and Web</p>
                     <p>Applications that leads to the success of the overall product</p>
                 </div>
-                <a href="#projects" className="bg-violet-600 py-4 px-20 rounded-md uppercase text-white font-bold text-xl shadow-xl">PROJECTS</a>
+                <a href="#Projects" className="bg-violet-600 py-4 px-20 rounded-md uppercase text-white font-bold text-xl shadow-xl">PROJECTS</a>
             </div>
             <div className="rounded-xl h-10 w-6 border-2 border-slate-700 mt-12 mb-12">
-                <div style={{animation: 'moveUpDown 1.2s infinite'}} className="w-1.5 h-1.5 rounded-lg bg-slate-500 mx-auto"></div>
+                <div style={{animation: 'moveUpDown 5.2s infinite'}} className="w-1.5 h-1.5 rounded-lg bg-slate-500 mx-auto"></div>
             </div>
         </div>
     )
