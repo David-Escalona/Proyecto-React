@@ -1,13 +1,8 @@
-import Iconos from "./templates/Iconos";
-import Chat from "./templates/Chat";
-
 function Contact(){
     return (
         
         <div id="fondo" className="flex flex-col items-center justify-center">
             <div className="absolute left-0 flex items-center mt-12 pt-12">
-                <Iconos></Iconos>
-                <Chat></Chat>
             </div>
             <div className="container text-center mt-12 pt-12 pb-12 mb-12">
                 <h1 className="uppercase font-extrabold text-6xl">CONTACT</h1>

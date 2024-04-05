@@ -5,7 +5,7 @@ function Home(){
     return (
         
         <div id="fondo" className="flex flex-col items-center justify-center">
-            <div className="absolute left-0 flex items-center mt-12 pt-12">
+            <div className="absolute left-0 flex items-center">
                 <Iconos></Iconos>
                 <Chat></Chat>
             </div>
@@ -18,7 +18,7 @@ function Home(){
                 <a href="#Projects" className="bg-violet-600 py-4 px-20 rounded-md uppercase text-white font-bold text-xl shadow-xl">PROJECTS</a>
             </div>
             <div className="rounded-xl h-10 w-6 border-2 border-slate-700 mt-12 mb-12">
-                <div style={{animation: 'moveUpDown 5.2s infinite'}} className="w-1.5 h-1.5 rounded-lg bg-slate-500 mx-auto"></div>
+                <div className="w-1.5 h-1.5 rounded-lg bg-slate-500 mx-auto mt-2"></div>
             </div>
         </div>
     )
