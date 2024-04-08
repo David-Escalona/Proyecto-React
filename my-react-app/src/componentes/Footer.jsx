@@ -1,4 +1,3 @@
-import Iconos from "./templates/Iconos"
 import IconosHorizontal from "./templates/IconosHorizontal"
 
 function Footer(){

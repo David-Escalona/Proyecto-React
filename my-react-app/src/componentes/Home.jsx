@@ -18,7 +18,8 @@ function Home(){
                 <a href="#Projects" className="bg-violet-600 py-4 px-20 rounded-md uppercase text-white font-bold text-xl shadow-xl">PROJECTS</a>
             </div>
             <div className="rounded-xl h-10 w-6 border-2 border-slate-700 mt-12 mb-12">
-                <div className="w-1.5 h-1.5 rounded-lg bg-slate-500 mx-auto mt-2"></div>
+            <div className="w-1.5 h-1.5 rounded-lg bg-slate-500 mx-auto mt-2"></div>
+
             </div>
         </div>
     )

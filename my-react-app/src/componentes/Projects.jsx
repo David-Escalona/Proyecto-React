@@ -5,7 +5,7 @@ import Portatil4 from "./templates/Portatil4";
 
 function Projects(){
     return (
-        <div className="flex justify-around py-4 bg-white shadow-md">
+        <div id="Proyects" className="flex justify-around py-4 bg-white shadow-md">
         <div className="container text-center mt-12 pt-12 pb-12 mb-12">
                 <h1 className="uppercase font-extrabold text-6xl">PROJECTS</h1>
                 <a href="#Projects" className="bg-violet-600 py-4 px-1 rounded-md uppercase text-white font-bold text-xl shadow-xl inline-block transform rotate-90"></a>
@@ -88,3 +88,4 @@ function Projects(){
 }
 
 export default Projects
+
